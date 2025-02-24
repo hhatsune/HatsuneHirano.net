@@ -186,33 +186,14 @@ article a {
 
 
 /*Blog article layout*/
-.article{
-	margin-right: 120px;
-	margin-left: 120px;
-}
 
-.article h2 {
-	margin-right: 20px;
-	margin-left: 20px;
-}
 
-.article h3 {
-	margin-right: 20px;
-	margin-left: 20px;
-}
+.basic_intend{
+	margin-right: 150px;
+	margin-left: 150px;
 
-.article p{
-	margin-right: 20px;
-	margin-left: 20px;
-}
-
-.about_me{
-	margin-right: 20px;
-	margin-left: 20px;
 
 }
-
-
 
 
 
